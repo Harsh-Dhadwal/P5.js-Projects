@@ -1,0 +1,10 @@
+{
+  "name": "my_collection",
+  "projects": [
+    "p5-Test",
+    "Earthquake_Viz",
+    "droid",
+    "Lissajous_Curve",
+    "ChaosGame"
+  ]
+}
